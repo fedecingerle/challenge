@@ -1,0 +1,9 @@
+.slidesContainer {
+  display: none;
+}
+
+@media (min-width: 1000px) {
+  .slidesContainer {
+    display: block;
+  }
+}

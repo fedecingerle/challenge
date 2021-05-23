@@ -1,0 +1,10 @@
+.categoriasContainer {
+  display: none;
+}
+
+@media (min-width: 1000px) {
+  .categoriasContainer {
+    display: flex;
+    width: 100%;
+  }
+}
